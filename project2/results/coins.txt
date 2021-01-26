@@ -1,0 +1,17 @@
+Circle 1 :- Center:x 187.5, Center:y 509.5, radius 29.399999618530273 
+Circle 2 :- Center:x 514.5, Center:y 82.5, radius 29.299999237060547 
+Circle 3 :- Center:x 62.5, Center:y 337.5, radius 29.399999618530273 
+Circle 4 :- Center:x 313.5, Center:y 254.5, radius 29.399999618530273 
+Circle 5 :- Center:x 186.5, Center:y 83.5, radius 28.299999237060547 
+Circle 6 :- Center:x 577.5, Center:y 217.5, radius 29.399999618530273 
+Circle 7 :- Center:x 824.5, Center:y 176.5, radius 29.399999618530273 
+Circle 8 :- Center:x 718.5, Center:y 489.5, radius 29.399999618530273 
+Circle 9 :- Center:x 706.5, Center:y 107.5, radius 28.200000762939453 
+Circle 10 :- Center:x 380.5, Center:y 268.5, radius 29.399999618530273 
+Circle 11 :- Center:x 515.5, Center:y 286.5, radius 29.399999618530273 
+Circle 12 :- Center:x 367.5, Center:y 59.5, radius 28.299999237060547 
+Circle 13 :- Center:x 579.5, Center:y 539.5, radius 29.399999618530273 
+Circle 14 :- Center:x 89.5, Center:y 209.5, radius 24.899999618530273 
+Circle 15 :- Center:x 828.5, Center:y 356.5, radius 29.399999618530273 
+Circle 16 :- Center:x 64.5, Center:y 569.5, radius 29.399999618530273 
+Circle 17 :- Center:x 344.5, Center:y 458.5, radius 29.399999618530273 
